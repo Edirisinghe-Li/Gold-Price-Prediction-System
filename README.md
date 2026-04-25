@@ -53,12 +53,8 @@ pip install streamlit nbformat pandas numpy matplotlib seaborn scikit-learn yfin
 
 ```
 ANN_Project/
-├── App.py                      # Main Streamlit application
+├── app.py                      # Main Streamlit application
 ├── gold_forcast_core.ipynb     # Jupyter notebook with ML logic and data pipeline
-├── gld_price_data.csv          # Sample gold price data
-├── gold_price_1970_2026_daily.csv
-├── gold_prices_10y.csv
-├── GPP.ipynb                   # Additional analysis notebook
 └── README.md                   # This file
 ```
 
